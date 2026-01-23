@@ -1,3 +1,79 @@
+
+cp -r config_library/pattern-2/default config_library/pattern-2/Andrade
+
+Andrade,Javier
+I Have referenced version 2.1.0 also named:WEBALERT(downloadedfromthegoogleplaystoreundemypersonauseemail)on 2weeksofmonitoringithadalerttedchangesmadesee**forcopyandpaste*
+
+
+* Beginning of the log from Jan 17, 2026 12:02 PM
+
+• 12:02:43 PM: Step 1 of 2: loading the address https://eservices.sccgov.org/ovr/findinmate/find. 
+• 12:03:30 PM: No changes were found. 
+• 12:03:31 PM: The check of this web alert consumed approximately 30.2 KB traffic using WiFi. 
+
+Ending of the log at Jan 17, 2026 12:03 PM*,
+Beginning of the log from Jan 19, 2026 3:10 PM
+
+• 3:10:09 PM: Step 1 of 2: loading the address https://eservices.sccgov.org/ovr/findinmate/find. 
+• 3:10:39 PM: No changes were found. 
+• 3:10:40 PM: The check of this web alert consumed approximately 30.2 KB traffic using WiFi. 
+
+Ending of the log at Jan 19, 2026 3:10 PM
+*, Beginning of the log from Jan 23, 2026 7:44 AM
+
+• 7:44:18 AM: Step 1 of 2: loading the address https://eservices.sccgov.org/ovr/findinmate/find. 
+• 7:44:50 AM: No changes were found. 
+• 7:44:50 AM: The check of this web alert consumed approximately 28.9 KB traffic using the mobile network. 
+• 7:44:50 AM: The check of this web alert consumed approximately 448 Bytes traffic using WiFi. 
+
+*,
+Ending of the log at Jan 23, 2026 7:44 AM*,
+
+* Beginning of the log from Jan 23, 2026 7:44 AM
+
+• 7:44:18 AM: Step 1 of 2: loading the address https://eservices.sccgov.org/ovr/findinmate/find. 
+• 7:44:50 AM: No changes were found. 
+• 7:44:50 AM: The check of this web alert consumed approximately 28.9 KB traffic using the mobile network. 
+• 7:44:50 AM: The check of this web alert consumed approximately 448 Bytes traffic using WiFi. 
+
+Ending of the log at Jan 23, 2026 7:44 AM*,
+
+*,*
+Although it does state on website (https://eservices.sccgov.org/OVR/findinmate/Find)
+Website mainteverymondayandthursday, I FINDITAKWARD THAT THE WEBSITE WOULD REMOVE AND DELETETHENREADD THEINMATESINFORMATION.
+I CONTACTEDADMINISTRATIVE BOOKINGANDTHERESPONSE SHEGAVEME WAS UPONHERVIEW OF THE RECORDMAINTCAUSED THEINMATETO BEDELETED ON WEDS TOTHURSDAY MAINTSCEDULE.
+QUESTIONS?: ISTHEMAINTUPDATINGFILES,RECORDS,OR ACTIONS?
+IS THERE SETTINGS PUT IN PLACE FOR RECORDED ACTIONS DONE TOA FILETHATHAS BEEN  RECORDED WHEN YOU  INPUT INFORMATION INDAVIDUAL OR ARETHE FILESBEING DELETED ANDMAINT UPDATE TO CURRENT MAINT OF FILE? ARE THE FILES ONLYABLE TO BEUPDATED THOSE 2DAYSMEANS RELEASES ONLY HAPPEN 2TIMES A WEEK,INCLUDINGSAME DAYCOURTRELEASES.
+
+
+
+
+3.20-0
+3.20-1
+4.21.1
+4.21.2
+4.21 3
+4.21 4
+4.21-5
+7.0.0
+3.19.5
+2-14.0
+6.33.4 
+RSA5
+3.1.4
+TENACITY-9.1.2
+TQDM4.67-1MOREITERTOOLS
+EXCEPTIONGROUP-1.3.1
+FROZEN LIST-1.8.0
+AIOSIGNAL
+GPSBABEL 1.4.4-3
+GPSFILECONVERSION PLUS TRANSFER FROM GPSUNITS
+Libical3.0.20.-3opensourceimplemmenationoftheicalenderprotocols&protocoldataunits
+Units2.25.1
+Convertsbetweensystemsofunits
+Units-cur2.25-1unitscurpythonscript
+CrsytalGeysernaturalpinespringwaterby   cgroxane,gallon(3.78L)50% recycledpetplastic1-833-276-9263
+
 # Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # SPDX-License-Identifier: MIT-0
 
